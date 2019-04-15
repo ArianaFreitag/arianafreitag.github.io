@@ -1,0 +1,15 @@
+@font-face {
+	font-family: heavyheap;
+	src: url('Mignone.ttf');
+}
+
+body {
+  background-color: #FFFF00;
+}
+
+h1 {
+		 font-family: heavyheap;
+		 -webkit-font-smoothing: antialiased;
+     color: #191970;
+     font-size: 65px;
+	}
