@@ -20,6 +20,10 @@ a:link {
 	cursor: crosshair;
 }
 
+a:visited {
+  color: black;
+}
+
 #projects:hover {
 	background-image: linear-gradient(#1488CC, #2B32B2);
 	-webkit-text-fill-color: transparent;
