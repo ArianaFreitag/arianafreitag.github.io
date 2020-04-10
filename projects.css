@@ -37,18 +37,18 @@ a:link {
 
 #name {
 	font-size: 95px;
-	width: 100%;
+	width: 1400px;
 	position: fixed;
-	left: 3%;
-	top: 70%;
+	left: 36px;
+	top: 525px;
 }
 
 #projects {
-	left: 98%;
-	top: 3%;
+	left: 1400px;
+	top: 30px;
 	font-size: 72px;
-	width: 100%;
-	position: absolute;
+	width: 1400px;
+	position: fixed;
 	transform: rotate(180deg);
   transform-origin: left top
 }

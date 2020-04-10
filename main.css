@@ -50,40 +50,40 @@ a:visited {
 
 #name {
 	font-size: 95px;
-	width: 100%;
-	position: absolute;
-	left: 3%;
-	top: 70%;
+	width: 1400px;
+	position: fixed;
+	left: 36px;
+	top: 525px;
 }
 
 #projects {
-	left: 98%;
-	top: 3%;
+	left: 1400px;
+	top: 30px;
 	font-size: 72px;
-	width: 100%;
-	position: absolute;
+	width: 1400px;
+	position: fixed;
 	transform: rotate(180deg);
   transform-origin: left top
 }
 
 #about {
-	width: 100%;
+	width: 700px;
 	font-size: 70px;
-	position: absolute;
+	position: fixed;
 	transform: rotate(270deg);
   transform-origin: left top;
-	top: 86.5%;
-	left: 92.5%;
+	top: 650px;
+	left: 1321px;
 }
 
 #thoughts {
-	width: 100%;
+	width: 700px;
 	font-size: 70px;
-	position: absolute;
+	position: fixed;
 	transform: rotate(90deg);
   transform-origin: left top;
-	top: -7%;
-	left: 8.5%;
+	top: -45px;
+	left: 115px;
 }
 
 /* font-family: 'Mukta Mahee', sans-serif; */

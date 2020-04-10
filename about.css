@@ -38,18 +38,18 @@ a:visited {
 
 #name {
 	font-size: 95px;
-	width: 100%;
-	position: absolute;
-	left: 3%;
-	top: 70%;
+	width: 1400px;
+	position: fixed;
+	left: 36px;
+	top: 525px;
 }
 
 #about {
-	width: 100%;
+	width: 700px;
 	font-size: 70px;
-	position: absolute;
+	position: fixed;
 	transform: rotate(270deg);
   transform-origin: left top;
-	top: 86.5%;
-	left: 92.5%;
+	top: 650px;
+	left: 1321px;
 }
