@@ -24,6 +24,10 @@ a:visited {
   color: black;
 }
 
+#cv {
+	text-decoration: underline;
+}
+
 #name:hover {
 	background-image: linear-gradient(#1488CC, #2B32B2);
 	-webkit-text-fill-color: transparent;
@@ -52,4 +56,24 @@ a:visited {
   transform-origin: left top;
 	top: 650px;
 	left: 1321px;
+}
+
+#main_text {
+	position: fixed;
+	top: 420px;
+	left: 120px;
+
+}
+
+#about_text {
+	font-size: 24px;
+	color: black;
+	font-family: 'Mukta Mahee', sans-serif;
+}
+
+#picture {
+	position: fixed;
+	width: 500px;
+	top: 85px;
+	left: 120px;
 }
