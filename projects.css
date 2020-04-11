@@ -10,7 +10,19 @@ html {
 body {
 	cursor: auto;
 	background-color: white;
-	overflow-x: hidden;
+	overflow-y: hidden;
+	overflow-x: scroll;
+}
+
+body::-webkit-scrollbar {
+  width: 5px;
+  height: 8px;
+  background-color: rgba(0,0,0,0);; /* or add it to the track */
+}
+
+/* Add a thumb */
+body::-webkit-scrollbar-thumb {
+  background: black;
 }
 
 a:visited {
