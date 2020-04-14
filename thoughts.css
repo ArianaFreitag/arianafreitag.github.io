@@ -8,7 +8,7 @@ html {
 }
 
 body {
-	cursor: auto;
+	cursor: crosshair;
 	background-color: white;
 	overflow-x: hidden;
   overflow-y: hidden;
@@ -37,19 +37,50 @@ a:visited {
 }
 
 #name {
+	z-index: 6;
 	font-size: 95px;
 	width: 1400px;
 	position: fixed;
 	left: 36px;
 	top: 525px;
+	background-color: white;
 }
 
 #thoughts {
-	width: 700px;
+	z-index: 6;
+	width: 621px;
 	font-size: 70px;
 	position: fixed;
 	transform: rotate(90deg);
   transform-origin: left top;
 	top: -45px;
 	left: 115px;
+	background-color: white;
+}
+
+#white_bg_btm {
+	z-index: 5;
+	width: 1400px;
+	height: 200px;
+	position: fixed;
+	left: 36px;
+	top: 600px;
+	background-color: white;
+}
+
+#white_bg_side{
+	z-index: 5;
+	width: 1400px;
+	height: 200px;
+	position: fixed;
+	left: 36px;
+	top: 600px;
+	background-color: white;
+}
+
+#cloud {
+	z-index: 1;
+	position: absolute;
+	top: 0px;
+	left: 120px;
 }
