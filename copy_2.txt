@@ -13,7 +13,7 @@ Role: Lead Developer
 The Union Journal, an ongoing student led publication, released for their second issue a digital publication entitled SANDBOX. Working with a team of artists, engineers, and architects, we published student submitted works on an interactive website. SANDBOX's call to action encouraged readers to reconsider our approaches to content – how we engage with websites through accepted norms of headlines, subheadlines, and bylines — and how, through the removal of these crucial elements, we might open up new ways of interacting. We wished to lead readers through unknown organizations of thought in such a way that they might uncover otherwise overlooked outcomes.
 
     Title: Shenzhen Biennial 2020: Hiding from the Eyes of the City
-Role: Machine Learning Engineer
+Role: Machine Learning and Hardware Engineer
 Engineers and architects, with guidance from Professor Sam Keene and Benjamin Aranda, participated in the Shenzhen Bi-City Biennale of Urbanism/Architecture by building a piece entitled “Hiding from the Eyes of the City”. The installation, a kiosk, implemented facial recognition technology in real-time. This allowed participants to engage with contemporary means of surveillance, and more importantly the simple methods required to subdue and scramble the technology. Participants explored the mechanisms and conditions of this surveillance tech by realizing that even something as simple as a dotted sticker on a face could be what stands between surveillance and anonymity.
 
     Title: Summonses Suck!, Spring 2020
@@ -28,6 +28,6 @@ The research project, conducted by a team of four engineers with faculty advisem
 Role: Machine Learning Engineer
 I worked with a group of architects in their studio design course to develop and implement an interactive website using satellite imagery in order to explore patterns of urban density and informal settlements. We gathered available satellite imagery that we manually segemented into distinct density levels to then train a model capable of learning the patterns outlined. We attributed each density level a separate color that could then be painted unto a digital canvas hosted on urban-scapes.org to create abstract topography maps. The model allowed us to render these color maps into new imagery of urban settlements in an exercise to better understand changing urban conditions.
 
-    Title: GLAD, artist feature, 2022
+    Title: GLAD, 2022
 Role: "Machine Learning Intervention" Artist
 I collaborated with mmyope (an amorphous / nyc / kindness based group) on the realization of their second book, GLAD. GLAD is a science fiction story tackling the subject of collective memory and the collective conception of memory. As such, we worked on building a progressive machine learning model of "imagined" trees. We implemented these images by way of QR codes placed throughout the book where each subsequent code brought forth these generated images in greater dimension - producing real images meant to replace lost instances of reality.
